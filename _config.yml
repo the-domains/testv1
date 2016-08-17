@@ -13,25 +13,25 @@ collections:
       number: 10
 color:
   saturation: 0.4375
-  brandStrength: 0.75
+  brandStrength: 1
   lightness: 0.25
   brandColors:
-    - '#28272c'
-    - '#0c091a'
-    - '#4a4a4c'
-    - '#7d7d7d'
-    - '#c0c0c0'
+    - '#FFFFFF'
+    - '#929292'
+    - '#ABABAB'
+    - '#E1E1E1'
+    - '#C2C2C2'
   rhythmicContrast: 0.4444444
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: testv1
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: testv1
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
